@@ -21,6 +21,7 @@ const imageUrls = [
     "images/21.jpeg",
     "images/22.jpeg",
     "images/24.jpeg",
+    "images/bat20.jpeg",
 
 ];
 

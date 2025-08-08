@@ -6,7 +6,7 @@
 }
 body {
     font-family: Arial, sans-serif;
-   background: url("images/25.jpeg");
+   background: url("images/fish.jpg");
     margin: 0;
     height: 100vh;
     display: flex;
@@ -23,6 +23,7 @@ body {
         #70a1ff,
         #ff6b6b
     );
+    width: 40%;
     padding: 30px;
     border-radius: 10px;
     border: 2px solid black;
@@ -30,7 +31,7 @@ body {
 }
 
 img {
-    width: 50%;
+    width: auto;
     height: 300px;
     display: block;
     margin: 0 auto 20px auto;
